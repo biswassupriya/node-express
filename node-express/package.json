@@ -1,5 +1,5 @@
 {
-  "name": "bobs-project",
+  "name": "project1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/KieranKS/Project1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/KieranKS/Project1/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/KieranKS/Project1#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "ejs": "^2.6.1",
